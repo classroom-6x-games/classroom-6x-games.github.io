@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://classroom-6x-games.github.io/",
+  "name": "Classroom 6x",
+  "description": "Enjoy free online unblocked premium games on Classroom 6x. Play anytime, anywhere, with a variety of exciting games available for everyone.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://classroom-6x-games.github.io/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "sameAs": [
+    "https://twitter.com/Classroom6xGames",
+    "https://www.facebook.com/Classroom6xGames"
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Classroom 6x",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://classroom-6x-games.github.io/logo.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://classroom-6x-games.github.io/"
+  },
+  "genre": "Online Games",
+  "keywords": "free games, unblocked games, premium games, unblocked games, online games, educational games",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://classroom-6x-games.github.io/",
+    "priceCurrency": "USD",
+    "price": "0",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Classroom 6x"
+    }
+  },
+  
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "https://schema.org/Comment",
+    "userInteractionCount": "User interactions with games on Classroom 6x Games"
+  }
+}
